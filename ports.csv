@@ -1,0 +1,10 @@
+Port,Description
+21,FTP (File Transfer Protocol)
+53,DNS (Domain Name System)
+80,HTTP (Hypertext Transport Protocol - No SSL)
+110,POP3 Incoming (No SSL)
+443,HTTPS (HTTP over SSL)
+465,SMTP Outgoing (SSL)
+587,SMTP Outgoing (TLS or STARTTLS)
+993,IMAP Incoming (SSL)
+995,POP3 Incoming (SSL)
